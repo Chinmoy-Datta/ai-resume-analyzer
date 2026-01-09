@@ -1,7 +1,7 @@
-# ResumeLens AI 🚀  
+# Resumind 🚀  
 **AI-Powered Resume Analysis Platform**
 
-ResumeLens AI is a web application that allows users to upload resumes, analyze them using AI, and receive job-specific insights and scoring. It helps candidates understand how well their resume matches a job role and track their applications in one place.
+Resumind is a web application that allows users to upload resumes, analyze them using AI, and receive job-specific insights and scoring. It helps candidates understand how well their resume matches a job role and track their applications in one place.
 
 ---
 
