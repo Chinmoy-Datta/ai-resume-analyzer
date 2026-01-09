@@ -6,7 +6,7 @@ ResumeLens AI is a web application that allows users to upload resumes, analyze 
 ---
 
 ## 🔗 Live Demo
-👉 **Live Website:**   
+👉 **Live Website:** https://puter.com/app/cd-resume-analyzer  
 
 ---
 
